@@ -1,0 +1,1 @@
+var e=`/assets/gamehouse-CWAG_VgV.jpg`,t=`/assets/barber-_-j-Gzny.jpg`;export{e as n,t};
